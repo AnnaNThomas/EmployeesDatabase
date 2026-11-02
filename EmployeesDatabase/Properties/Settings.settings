@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="EmployeesDatabase.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="EmployeesDatabaseConnectionString" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename="C:\Users\MY BOOK\Documents\Databases\Employees.mdf";Integrated Security=True;Connect Timeout=30</Value>
+    </Setting>
+    <Setting Name="SQL" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">SELECT * FROM tbl_employees
+
+
+</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
